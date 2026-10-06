@@ -1,5 +1,6 @@
 # Secure Messaging Platform — Signal Clone
 
+## Url-https://signal-clone-final.vercel.app/
 ## 1. Project Overview
 This is a full-stack, real-time messaging application inspired by Signal, built as a Software Development Engineer (SDE) assignment. The platform allows users to register via phone numbers, manage profiles with local avatars, manage contacts, and participate in direct or group chats. 
 
